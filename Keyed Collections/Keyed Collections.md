@@ -62,7 +62,7 @@ Traditionally, a set of elements has been stored in arrays in JavaScript in a lo
 
 - Deleting Array elements by value (`arr.splice(arr.indexOf(val), 1)`) is very slow.
 - `Set` objects let you delete elements by their value. With an array, you would have to `splice` based on an element's index.
-- The value `[NaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)` cannot be found with `indexOf` in an array.
+- The value `NaN` cannot be found with `indexOf` in an array.
 - `Set` objects store unique values. You don't have to manually keep track of duplicates.
 
 ### Links
