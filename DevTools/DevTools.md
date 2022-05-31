@@ -1,7 +1,5 @@
 # DevTools
 
-Tags: focus on force
-
 ## Overview
 
 ![Untitled](DevTools-img/Untitled.png)

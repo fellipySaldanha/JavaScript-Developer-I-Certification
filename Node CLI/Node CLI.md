@@ -1,7 +1,5 @@
 # Node.js CLI
 
-Tags: focus on force
-
 There are various command line options in Node.js. They include helpful run-time options, built-in debugging, and multiple ways of executing scripts.
 
 The node script.js command can be used to run a Node.js application named script.js. It must be executed from the same directory that contains the script.js file.
